@@ -1,0 +1,129 @@
+@keyframes animatti {
+    from {
+        transform: translateX(-300px); 
+    } 
+    to {
+        transform: translateX(0px); 
+    }
+} 
+.tausta {
+    background-color: white; 
+    width: 3000px; 
+    height: 1500px; 
+} 
+.d1 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 1; 
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d1:hover {
+    color: blue; 
+} 
+.d2 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 0.7;  
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d2:hover { 
+    color: blue; 
+} 
+.d3 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 0.7; 
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d3:hover {
+    color: blue; 
+} 
+.d4 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 0.7;  
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d4:hover {
+    color: blue; 
+} 
+.d5 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    background-color: white; 
+    font-size: 150px; 
+    transition: 2s; 
+    border-color: orange; 
+    border-radius: 36px; 
+} 
+.d5:hover {
+    background-color: red;
+} 
+.d6 {
+    color: black; 
+} 
+.tausta2 {
+    background-color: orangered; 
+    width: 3000px; 
+    height: 1500px; 
+} 
+.d7 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 1; 
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d7:hover {
+    color: blue; 
+} 
+.d8 {
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 0.7; 
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d8:hover {
+    color: blue; 
+} 
+.d9 { 
+    animation-name: animatti; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: black; 
+    opacity: 0.7;  
+    transition: 2s; 
+    font-size: 150px; 
+} 
+.d9:hover {
+    color: blue; 
+}  
+.tausta3 {
+    background-color: blue;  
+    width: 3000px; 
+    height: 1500px; 
+} 
+.kuvav {
+    margin-left: 1500px; 
+    width: 500px; 
+    height: 500px; 
+    margin-top: 500px; 
+}
